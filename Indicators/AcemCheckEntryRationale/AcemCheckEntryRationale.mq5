@@ -8,7 +8,7 @@
 //+------------------------------------------------------------------+
 
 #include <Acem/Common/AcemUtility.mqh>
-#include <Acem/QuickEdit/AcemCheckEntryRationale.mqh>
+#include <Acem/Cmd/AcemCheckEntryRationale.mqh>
 
 #define INDICATOR_SHORT_NAME "AcemCheckEntryRationale"
 

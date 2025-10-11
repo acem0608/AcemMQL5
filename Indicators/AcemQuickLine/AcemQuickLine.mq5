@@ -4,7 +4,7 @@
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
 
-#include <Acem/QuickEdit/AcemQuickEditManagement.mqh>
+#include <Acem/Cmd/AcemQuickEditManagement.mqh>
 
 CAcemQuickEditManagement quickEdit;
 

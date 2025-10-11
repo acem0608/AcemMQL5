@@ -6,7 +6,7 @@
 //+------------------------------------------------------------------+
 //| Custom indicator initialization function                         |
 //+------------------------------------------------------------------+
-#include <Acem/Sync/AcemSyncCursor.mqh>
+#include <Acem/Cmd/AcemSyncCursor.mqh>
 #include <Acem/Common/AcemUtility.mqh>
 
 CAcemSyncCursor syncCursor;

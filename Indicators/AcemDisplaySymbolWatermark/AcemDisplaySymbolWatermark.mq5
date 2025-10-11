@@ -8,7 +8,7 @@
 //+------------------------------------------------------------------+
 
 #include <Acem/Common/AcemUtility.mqh>
-#include <Acem/Draw/AcemDisplaySymbolWatermark.mqh>
+#include <Acem/Cmd/AcemDisplaySymbolWatermark.mqh>
 
 #define INDICATOR_SHORT_NAME "AcemDisplaySymbolWatermark"
 

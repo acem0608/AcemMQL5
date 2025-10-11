@@ -4,7 +4,7 @@
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
 
-#include <Acem/Sync/AcemSyncChartPos.mqh>
+#include <Acem/Cmd/AcemSyncChartPos.mqh>
 #include <Acem/Common/AcemUtility.mqh>
 
 CAcemSyncChartPos syncChartPos;

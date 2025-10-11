@@ -5,7 +5,7 @@
 //+------------------------------------------------------------------+
 
 #include <Acem/Common/AcemUtility.mqh>
-#include <Acem/Sync/AcemSyncObject.mqh>
+#include <Acem/Cmd/AcemSyncObject.mqh>
 
 #define INDICATOR_SHORT_NAME "AcemSyncObject"
 
